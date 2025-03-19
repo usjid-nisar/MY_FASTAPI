@@ -1,0 +1,3 @@
+.venv
+.cursorignore
+__pycache__/
